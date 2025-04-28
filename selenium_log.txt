@@ -45,3 +45,4 @@ Wait timed out after 15183ms
 4/28/2025, 4:35:01 PM Error: Cannot read properties of undefined (reading 'click')
 4/28/2025, 4:42:19 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
 Wait timed out after 15054ms
+4/28/2025, 5:32:14 PM Error: Cannot read properties of undefined (reading 'click')

@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Mohamed22/selenium-webdriver.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/A-Mohamed22/selenium-webdriver/issues"
+  },
+  "homepage": "https://github.com/A-Mohamed22/selenium-webdriver#readme",
   "dependencies": {
     "chromedriver": "^135.0.4",
     "geckodriver": "^5.0.0",
