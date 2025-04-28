@@ -6,7 +6,7 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // Setup Firefox WebDriver
 async function setupFirefoxDriver() {
   let options = new firefox.Options();
-  // options.addArguments('--headless'); // Headless mode for GCP
+  options.addArguments('--headless'); // Headless mode for GCP
   options.addArguments("--window-size=1920,1200"); // Consistent window size
   options.addArguments("--no-sandbox"); // For GCP/Linux
   options.addArguments("--disable-dev-shm-usage"); // Prevent container crashes
