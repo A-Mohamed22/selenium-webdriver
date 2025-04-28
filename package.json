@@ -1,0 +1,19 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chromedriver": "^135.0.4",
+    "geckodriver": "^5.0.0",
+    "selenium-webdriver": "^4.31.0"
+  }
+}

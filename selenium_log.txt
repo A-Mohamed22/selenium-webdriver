@@ -1,0 +1,47 @@
+4/28/2025, 3:20:08 PM Error: Failed to find drawer toggle button: Waiting for at least one element to be located By(css selector, *[id="drawerToggleButton"])
+Wait timed out after 15110ms
+4/28/2025, 3:21:25 PM Error: Failed to find drawer toggle button: Waiting for at least one element to be located By(css selector, *[id="drawerToggleButton"])
+Wait timed out after 15004ms
+4/28/2025, 3:22:15 PM Error: Failed to find drawer toggle button: Waiting for at least one element to be located By(css selector, *[id="drawerToggleButton"])
+Wait timed out after 15016ms
+4/28/2025, 3:23:59 PM Failed to navigate to inventory management.
+4/28/2025, 3:32:03 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
+Wait timed out after 15183ms
+4/28/2025, 3:33:42 PM Failed to navigate to inventory management.
+4/28/2025, 3:48:59 PM Failed to navigate to inventory management.
+4/28/2025, 3:50:09 PM Failed to navigate to inventory management.
+4/28/2025, 3:51:35 PM Failed to navigate to inventory management.
+4/28/2025, 3:52:20 PM Failed to navigate to inventory management.
+4/28/2025, 3:53:08 PM Failed to navigate to inventory management.
+4/28/2025, 3:58:40 PM Error: TypeError: arguments[0] is null
+4/28/2025, 3:59:21 PM Error: TypeError: arguments[1] is undefined
+4/28/2025, 4:00:43 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:03:31 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:04:02 PM Error: The element with the reference 52159d70-c3ce-4a91-9243-c50710c6569f is stale; either its node document is not the active document, or it is no longer connected to the DOM
+4/28/2025, 4:09:53 PM Error: Unable to locate element: *[id="user-name-input\|input"]
+4/28/2025, 4:10:39 PM Error: Wait timed out after 15072ms
+4/28/2025, 4:14:31 PM Error: Invalid locator
+4/28/2025, 4:16:11 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:17:20 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:17:47 PM Error: Failed to decode response from marionette
+4/28/2025, 4:18:25 PM Error: Error: Unable to find owning document
+4/28/2025, 4:18:50 PM Error: Cannot read properties of undefined (reading 'submit')
+4/28/2025, 4:19:47 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:20:09 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:20:48 PM Error: Failed to decode response from marionette
+4/28/2025, 4:21:24 PM Error: Wait timed out after 15131ms
+4/28/2025, 4:28:30 PM Error: Unable to locate element: *[id="org-name-input\|input"]
+4/28/2025, 4:29:00 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:29:23 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:29:57 PM Error: The element with the reference bf3c3253-48bb-400c-a0ab-d102e6b351d5 is stale; either its node document is not the active document, or it is no longer connected to the DOM
+4/28/2025, 4:30:57 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:31:18 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:31:42 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:32:04 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:32:27 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:32:56 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:33:23 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:34:38 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:35:01 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 4:42:19 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
+Wait timed out after 15054ms
