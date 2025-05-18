@@ -1,3 +1,7 @@
+const express = require("express");
+const bodyParser = require("body-parser");
+const app = express();
+
 // const { Builder, By, until, WebDriver } = require("selenium-webdriver");
 // const firefox = require("selenium-webdriver/firefox");
 // const fs = require("fs");
@@ -259,9 +263,7 @@
 // setInterval(()=> navigateDrawerAndInventory() , 1000*60*1);
 
 
-const express = require('express');
-const bodyParser = require('body-parser');
-const app = express();
+
 
 // Parse JSON and XML requests
 app.use(bodyParser.json());

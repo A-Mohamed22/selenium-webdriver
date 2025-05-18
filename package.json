@@ -21,6 +21,7 @@
   "dependencies": {
     "body-parser": "^2.2.0",
     "chromedriver": "^135.0.4",
+    "express": "^5.1.0",
     "geckodriver": "^5.0.0",
     "selenium-webdriver": "^4.31.0"
   }
