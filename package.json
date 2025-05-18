@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/A-Mohamed22/selenium-webdriver#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "chromedriver": "^135.0.4",
     "geckodriver": "^5.0.0",
     "selenium-webdriver": "^4.31.0"

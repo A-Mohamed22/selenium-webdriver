@@ -46,3 +46,10 @@ Wait timed out after 15183ms
 4/28/2025, 4:42:19 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
 Wait timed out after 15054ms
 4/28/2025, 5:32:14 PM Error: Cannot read properties of undefined (reading 'click')
+4/28/2025, 6:06:40 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
+Wait timed out after 15097ms
+4/28/2025, 6:08:37 PM Error: Failed to find drawer toggle button: Waiting for at least one element to be located By(css selector, *[id="drawerToggleButton__oj3"])
+Wait timed out after 15026ms
+4/28/2025, 6:10:20 PM Error: Unable to locate element: *[id="org-name-input\|input"]
+4/28/2025, 6:12:30 PM Error: Waiting for element to be located By(css selector, *[id="user-name-input\|input"])
+Wait timed out after 15121ms
